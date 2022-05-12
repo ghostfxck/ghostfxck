@@ -1,2 +1,2 @@
 inactive
-https://www.ghostfxck.ga
+https://im.ghostfxck.ga
